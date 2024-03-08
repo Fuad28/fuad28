@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on ![coding challenges](https://github.com/Fuad28/coding-challenges)
 - 🌱 I’m currently learning from the things I build
+- I write on amazing things, ![check it out](https://fuad.hashnode.dev/)
 - 👯 I’m looking to collaborate on anything fun, legal and halal.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about software engineering
