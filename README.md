@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ![coding challenges](https://github.com/Fuad28/coding-challenges)
+- 🌱 I’m currently learning from the things I build
+- 👯 I’m looking to collaborate on anything fun, legal and halal.
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about software engineering
+- 📫 Reach me via ![linkedin](https://www.linkedin.com/in/fuad-adio)
+- ⚡ Fun fact: would it be fun to know that I genuinely love building software 😅 ?
+
 <!--
 **Fuad28/fuad28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
