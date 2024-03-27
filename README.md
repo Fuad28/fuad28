@@ -2,9 +2,8 @@
 
 - 🔭 I’m currently working on [coding challenges](https://github.com/Fuad28/coding-challenges)
 - 🌱 I’m currently learning system design, GOlang, and from the things I build
-- 📝 I write on amazing topics too, here](https://fuad.hashnode.dev/)
+- 📝 I write on amazing topics too, [here](https://fuad.hashnode.dev/)
 - 👯 I’m looking to collaborate on anything fun, legal and halal.
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about software engineering
 - 📫 Reach me via [linkedin](https://www.linkedin.com/in/fuad-adio)
 - ⚡ Fun fact: would it be fun to know that I genuinely love building software 😅 ?
